@@ -35,6 +35,9 @@ Dựa trên kết quả phân tích, các quốc gia được chia thành 3 nhó
 - **Nhóm 1**: Các quốc gia **Kém phát triển**.
 - **Nhóm 2**: Các quốc gia **Phát triển**.
 
+## Kết quả phân loại với mô hình GMM
+![alt text](image.png)
+
 ## 🚀 Hướng dẫn cài đặt và chạy Dashboard
 
 ### Yêu cầu hệ thống
